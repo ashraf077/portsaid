@@ -1,0 +1,16 @@
+				@font-face {
+					font-family: 'pf';
+					src: url('/wp-content/uploads/useanyfont/200125030821pf.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/200125030821pf.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.pf{font-family: 'pf' !important;}
+
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: '' !important;
+				}
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'pf' !important;
+				}
+		
